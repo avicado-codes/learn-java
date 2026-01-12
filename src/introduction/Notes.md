@@ -1,4 +1,4 @@
-# Introduction to Java Programming – Complete Beginner Notes
+# Introduction to Java Programming
 
 This document is a structured, beginner-friendly explanation of Java programming fundamentals.  
 It is designed for absolute beginners and builds concepts step by step using real-world examples and simple code snippets.
@@ -7,40 +7,40 @@ It is designed for absolute beginners and builds concepts step by step using rea
 
 ## Table of Contents
 
-1. Why Learn Java
-2. History of Java
-3. What Is Programming
-4. Human Language vs Computer Language
-5. What Is a Programming Language
-6. High-Level and Low-Level Languages
-7. Compiler, Interpreter, and Hybrid Languages
-8. Java Compilation Process
-9. Bytecode and JVM
-10. Write Once, Run Anywhere
-11. Platform Dependency and Portability
-12. Java Versions and Backward Compatibility
-13. Why Java Was Considered Slow Initially
-14. How Java Became Fast
-15. Java vs C / C++
-16. Java vs Python
-17. Security and Sandboxing
-18. Memory Management and Garbage Collection
-19. Robustness in Java
-20. Multithreading Concept
-21. Architecture Neutrality
-22. Distributed Applications
-23. What Is an Algorithm
-24. Algorithm Examples from Real Life
-25. What Is Syntax
-26. Syntax Errors vs Logical Errors
-27. Object-Oriented Programming Concept
-28. Procedural vs Object-Oriented Programming
-29. Classes and Objects (Introduction)
-30. Real-World Object-Oriented Examples
-31. Why Java Is Still Relevant Today
-32. Where Java Is Used
-33. What Comes Next in Java Learning
-34. Summary Card
+1. [Why Learn Java](#1-why-learn-java)
+2. [History of Java](#2-history-of-java)
+3. [What Is Programming](#3-what-is-programming)
+4. [Human Language vs Computer Language](#4-human-language-vs-computer-language)
+5. [What Is a Programming Language](#5-what-is-a-programming-language)
+6. [High-Level and Low-Level Languages](#6-high-level-and-low-level-languages)
+7. [Compiler, Interpreter, and Hybrid Languages](#7-compiler-interpreter-and-hybrid-languages)
+8. [Java Compilation Process](#8-java-compilation-process)
+9. [Bytecode and JVM](#9-bytecode-and-jvm)
+10. [Write Once, Run Anywhere](#10-write-once-run-anywhere)
+11. [Platform Dependency and Portability](#11-platform-dependency-and-portability)
+12. [Java Versions and Backward Compatibility](#12-java-versions-and-backward-compatibility)
+13. [Why Java Was Considered Slow Initially](#13-why-java-was-considered-slow-initially)
+14. [How Java Became Fast](#14-how-java-became-fast)
+15. [Java vs C / C++](#15-java-vs-c--c)
+16. [Java vs Python](#16-java-vs-python)
+17. [Security and Sandboxing](#17-security-and-sandboxing)
+18. [Memory Management and Garbage Collection](#18-memory-management-and-garbage-collection)
+19. [Robustness in Java](#19-robustness-in-java)
+20. [Multithreading Concept](#20-multithreading-concept)
+21. [Architecture Neutrality](#21-architecture-neutrality)
+22. [Distributed Applications](#22-distributed-applications)
+23. [What Is an Algorithm](#23-what-is-an-algorithm)
+24. [Algorithm Examples from Real Life](#24-algorithm-examples-from-real-life)
+25. [What Is Syntax](#25-what-is-syntax)
+26. [Syntax Errors vs Logical Errors](#26-syntax-errors-vs-logical-errors)
+27. [Object-Oriented Programming Concept](#27-object-oriented-programming-concept)
+28. [Procedural vs Object-Oriented Programming](#28-procedural-vs-object-oriented-programming)
+29. [Classes and Objects (Introduction)](#29-classes-and-objects-introduction)
+30. [Real-World Object-Oriented Examples](#30-real-world-object-oriented-examples)
+31. [Why Java Is Still Relevant Today](#31-why-java-is-still-relevant-today)
+32. [Where Java Is Used](#32-where-java-is-used)
+33. [What Comes Next in Java Learning](#33-what-comes-next-in-java-learning)
+34. [Summary Card](#34-summary-card)
 
 ---
 
@@ -373,7 +373,7 @@ Syntax means:
 - Structure of statements in a programming language
 
 Correct example:
-```java
+```text
 System.out.println("Hello");
 ```
 Incorrect syntax causes compilation errors.
