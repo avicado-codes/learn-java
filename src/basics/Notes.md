@@ -1,10 +1,5 @@
 # Java Basics
 
-These notes are a **structured, beginner-friendly explanation** of Java Basics, extracted and expanded from the given transcript.  
-They cover **everything mentioned**, **everything hinted at but not explained**, and **all closely related concepts** needed for a solid foundation.
-
-This chapter prepares your **system, mindset, and understanding** to start real Java programming confidently.
-
 ---
 
 ## Table of Contents

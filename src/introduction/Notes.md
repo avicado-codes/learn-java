@@ -1,8 +1,5 @@
 # Introduction to Java Programming
 
-This document is a structured, beginner-friendly explanation of Java programming fundamentals.  
-It is designed for absolute beginners and builds concepts step by step using real-world examples and simple code snippets.
-
 ---
 
 ## Table of Contents

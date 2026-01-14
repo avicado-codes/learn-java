@@ -1,3 +1,5 @@
+// create a class to output hello world
+
 package basics;
 
 public class HelloWorld{
