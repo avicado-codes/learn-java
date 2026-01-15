@@ -92,7 +92,7 @@ A program is a **set of instructions executed step by step**.
 Humans communicate using:
 - English
 - Hindi
-- Telugu
+- Bengali
 - Other natural languages
 
 Computers understand:
